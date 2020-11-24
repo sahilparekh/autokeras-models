@@ -1,2 +1,2 @@
 # autokeras-models
-Implementing one by one tf2cv models in autokeras
+Supporting one by one tf2cv models for autokeras
